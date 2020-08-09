@@ -1,0 +1,98 @@
+
+
+
+#conteudo{
+	background: #407094;
+	color: white;
+}
+
+#retangulo{
+	height: 4px;
+	width: 120px;
+	background: #b6e4fc;
+	margin: 0 auto;
+	margin-top: 20px; 
+	margin-bottom: 20px;
+}
+
+#conteudo-container{
+
+	padding-top: 100px;
+}
+
+#logo{
+	
+	margin-top: 60px; 
+	margin-bottom: 40px;
+	margin-left: 80px;
+}
+
+#card{
+	border-radius: 15px; 
+
+
+
+
+}
+#card-2{
+	width: 399px
+	margin-left: 10px;
+}
+
+.display-4{
+	font-size: 18pt;
+	text-align: center;
+
+}
+
+.bg-card{
+	background-color: #2a4e69;
+}
+
+.bg-card-2{
+	background: #40434a;
+	
+}
+
+
+
+
+.option{
+	padding: 10px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	background-color: white;
+	text-align: center;
+	color: #40434a;
+	transition: padding 0.5s, background-color 1s,color 1s ;
+	
+}
+
+.option:hover{
+	background-color: black;
+	color: white;
+	padding: 15px 15px;
+	cursor: pointer;
+
+}
+
+.option-correta{
+	padding: 10px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	background-color: green;
+	text-align: center;
+	color: white;
+	transition: padding 0.5s, background-color 1s,color 1s ;
+}
+
+.option-incorreta{
+	padding: 10px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	background-color: darkred;
+	text-align: center;
+	color: white;
+	transition: padding 0.5s, background-color 1s,color 1s ;
+}
+
